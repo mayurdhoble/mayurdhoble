@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - @ Hi, my name is Mayur,
-- 🔭 I’m currently working on AI,ML,CV,DL,DA,LLMs,Gen-AI
+- 🔭 I’m currently working on AI,ML,DL,DA,LLMs,Gen-AI
 - 🌱 I’m learning Artificial Intelligence,Machine Learning, LLMs, Deep Learning, Natural Language Processing,AND much more
 - 👯 I’m looking to collaborate on AI
 - 🤔 I’m looking for help with guidance
