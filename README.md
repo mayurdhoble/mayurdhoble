@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mayur Dhoble  
 
-💻 **Software Developer | DevOps | AI & ML Enthusiast**  
+💻 **Software Developer | DSA | DevOps | AI & ML Enthusiast**  
 📍 Pune, Maharashtra, India  
 
 ---
@@ -8,7 +8,7 @@
 ## 🚀 About Me
 I’m passionate about creating impactful solutions in **Python**, **DevOps**, **AI/ML**, and **Full-Stack Development**.  
 I enjoy building scalable backend systems, deploying **cloud-native** applications, and exploring **machine learning challenges**.  
-Currently working as a **Software Engineer (DevOps Focus)** at **Business-Inventra**.  
+
 
 ---
 
@@ -78,8 +78,11 @@ _Apr 2025 – Present | Aurangabad_
 - Generated content ideas via **LangChain + Gemini**, automated posting calendar.  
 
 ---
-
 ## 📚 Education
+**MCA Masters In Computer Appication** 
+Sandip Institute of Technology and Research Centre (SITRC), Mahiravani, Nashik (2025–2027)  
+GPA: **8.5 / 10**
+
 **B.Sc. in Computer Science**  
 Deogiri College, Chh. Sambhajinagar (2022–2025)  
 GPA: **7.25 / 10**
@@ -87,8 +90,10 @@ GPA: **7.25 / 10**
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [mayur-dhoble](https://www.linkedin.com/in/mayur-dhoble-83061a)  
-- **Email:** mayurdhoble5@gmail.com  
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/mayur-dhoble-83061a)[ ](https://www.linkedin.com/in/mayur-dhoble-83061a)
+[![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:mayurdhoble5@gmail.com)
+
 
 > _“Learning never exhausts the mind.” – Leonardo da Vinci_  
 Languages: English • Marathi • Hindi
