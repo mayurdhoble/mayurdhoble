@@ -79,7 +79,8 @@ _Apr 2025 – Present | Aurangabad_
 
 ---
 ## 📚 Education
-**MCA Masters In Computer Appication** 
+
+**MCA (Masters In Computer Appication)** 
 Sandip Institute of Technology and Research Centre (SITRC), Mahiravani, Nashik (2025–2027)  
 GPA: **8.5 / 10**
 
