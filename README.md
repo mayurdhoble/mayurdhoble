@@ -1,104 +1,94 @@
+# 👋 Hi, I'm Mayur Dhoble  
 
-👋 Hi there, I'm Mayur Dhoble!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo.com/in/mayur-dhoble-83061aimg.shields.io/badge/Gmail-mayurdhoble5@gmail.com-D14836?style=flat&logo=gmail&logo Recent Computer Science Graduate
-💻 Software Developer | DevOps | AI & ML Enthusiast
-📍 Pune, Maharashtra, India
+💻 **Software Developer | DevOps | AI & ML Enthusiast**  
+📍 Pune, Maharashtra, India  
 
-🚀 About Me
-I'm passionate about building real-world solutions with Python, DevOps, AI/ML, and Full-Stack Development. I love working on backend systems, deploying cloud-native apps, and tackling ML challenges. Currently, I'm a Software Engineer (DevOps Focus) at Business-Inventra.
+---
 
-🛠️ Skills
-Languages:
-Python C++ SQL
+## 🚀 About Me
+I’m passionate about creating impactful solutions in **Python**, **DevOps**, **AI/ML**, and **Full-Stack Development**.  
+I enjoy building scalable backend systems, deploying **cloud-native** applications, and exploring **machine learning challenges**.  
+Currently working as a **Software Engineer (DevOps Focus)** at **Business-Inventra**.  
 
-Frameworks & Libraries:
+---
 
-Machine Learning: scikit-learn, TensorFlow, Keras, LangChain, LangGraph
+## 🛠️ Tech Stack
 
-Backend: Flask, FastAPI
+**Languages:**  
+`Python` `C++` `SQL`
 
-Frontend: React.js, Redux, HTML, CSS, JavaScript
+**Machine Learning & AI:**  
+`scikit-learn` `TensorFlow` `Keras` `LangChain` `LangGraph`
 
-DevOps & Cloud:
+**Backend Development:**  
+`Flask` `FastAPI`
 
-AWS (EC2, RDS, ECR)
+**Frontend Development:**  
+`React.js` `Redux` `HTML` `CSS` `JavaScript`
 
-Docker, GitHub Actions, CI/CD
+**DevOps & Cloud:**  
+`AWS (EC2, RDS, ECR)` `Docker` `GitHub Actions (CI/CD)` `Heroku` `MCP servers`
 
-Heroku, MCP servers
+**Databases:**  
+`PostgreSQL` `MySQL`  
+_Vector DB:_ `Pinecone` `ChromaDB`
 
-Databases:
+**Tools:**  
+`Jupyter Notebook` `Pandas` `NumPy`
 
-PostgreSQL
+**Soft Skills:**  
+Communication • Teamwork • Problem-Solving  
 
-MySQL
+---
 
-Vector DB: Pinecone, ChromaDB
+## 💼 Experience
 
-Other Tools:
+**Software Engineer (DevOps Focus)** | *Business-Inventra*  
+_Apr 2025 – Present | Aurangabad_  
+- Managed AWS cloud infrastructure: deployments, database management, Docker containers.  
+- Automated build, test & deployment workflows with GitHub Actions → **70% faster deployments**.  
+- Collaborated with frontend & backend teams for API testing and workflow integration.  
 
-Jupyter Notebook, Pandas, NumPy
+---
 
-Soft Skills:
+## 🌟 Featured Projects
 
-Communication, Teamwork, Problem-solving
+### 🔹 Task Manager App with LLM Integration
+- RESTful backend with **FastAPI**, **PostgreSQL**, **Docker**, and **Celery**.  
+- Integrated **Gemini API** for intelligent task prioritization.  
 
-🧑💻 Experience
-Software Engineer (DevOps Focus) | Business-Inventra
-Apr 2025 – Present | Aurangabad
+### 🔹 College Event Management API System
+- Full API with **FastAPI**, **JWT Authentication**, **PostgreSQL**, **Docker Compose**.  
+- Automated event registration, feedback, and role-based access.  
 
-Managed AWS cloud infrastructure (deployments, database management, Docker containers)
+### 🔹 Auto Certificate Generation & Email Notification System
+- Built with **Flask** & **Google Forms**.  
+- Automated certificate PDF generation and email delivery via **Gmail SMTP**.  
 
-Automated build, test, and deployment with GitHub Actions saving 70% deployment time
+### 🔹 Full Stack Sentiment Analysis App
+- Real-time analysis from **Twitter data** using **Flask**, **NLTK**, **Scikit-Learn**.  
+- Achieved **89% accuracy**.  
 
-Collaborated with frontend/backed teams on API testing and system workflows
+### 🔹 Fruit Classification with Deep CNN
+- **TensorFlow/Keras** multi-class fruit classifier.  
+- Used **dropout** and **batch-normalization** to improve accuracy (76%).  
 
-🌟 Featured Projects
-🔹 [Task Manager App with LLM Integration]
-Built RESTful backend (FastAPI, PostgreSQL, Docker, Celery)
+### 🔹 Social Media Trend Collector & Content Idea Generator
+- Collected trend data using **Apify**.  
+- Generated content ideas via **LangChain + Gemini**, automated posting calendar.  
 
-Integrated Gemini API for smart task prioritization
+---
 
-🔹 [College Event Management API System]
-Full API management (FastAPI, PostgreSQL, JWT auth, Docker Compose)
+## 📚 Education
+**B.Sc. in Computer Science**  
+Deogiri College, Chh. Sambhajinagar (2022–2025)  
+GPA: **7.25 / 10**
 
-Automated event registration, feedback and admin/student roles
+---
 
-🔹 [Auto Certificate Generation & Email Notification System]
-Flask & Google Forms for automated certificates and notification emails
+## 📫 Let's Connect!
+- **LinkedIn:** [mayur-dhoble](https://www.linkedin.com/in/mayur-dhoble-83061a)  
+- **Email:** mayurdhoble5@gmail.com  
 
-Secure PDF delivery using Gmail SMTP
-
-🔹 [Full Stack Sentiment Analysis App]
-Twitter data, Flask, NLTK, Scikit-Learn, 89% accuracy
-
-Deployed as a real-time web application
-
-🔹 [Fruit Classification with Deep CNN]
-Multi-class fruit classifier (TensorFlow/Keras)
-
-76% accuracy using dropout, batch-norm
-
-🔹 [Social Media Trend Collector & Content Idea Generator]
-Trend data collection via Apify, ideas via LangChain + Gemini
-
-Automated content & calendar scheduling
-
-📚 Education
-B.Sc. Computer Science
-Deogiri College Chh. Sambhajinagar, Maharashtra
-GPA: 7.25 (2022–2025)
-
-📈 Let's Connect!
-💼 LinkedIn
-
-📨 mayurdhoble5@gmail.com
-
-💡 Explore my repositories below!
-
-“Learning never exhausts the mind.” – Leonardo da Vinci
-
-Languages: English | Marathi | Hindi
-
-⚡ GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mayurdhoble&show_icons=true&theme=react" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurdhoble&layout=compact&theme=react" /> </p>
+> _“Learning never exhausts the mind.” – Leonardo da Vinci_  
+Languages: English • Marathi • Hindi
