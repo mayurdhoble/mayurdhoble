@@ -1,18 +1,22 @@
 # 👋 Hi, I'm Mayur Dhoble  
 
-💻 **Software Developer | DSA | DevOps | AI & ML Enthusiast**  
+💻 **AI Developer | Agentic AI | AI & ML Workflow Automator | DSA | DevOps |**  
 📍 Pune, Maharashtra, India  
 
 ---
 
 ## 🚀 About Me
-I’m passionate about creating impactful solutions in **Python**, **DevOps**, **AI/ML**, and **Full-Stack Development**.  
+I’m passionate about creating impactful solutions in **Agentic AI**, **Python**, **Workflow Automation**, **AI/ML**, and **Full-Stack Development**.  
 I enjoy building scalable backend systems, deploying **cloud-native** applications, and exploring **machine learning challenges**.  
 
 
 ---
 
 ## 🛠️ Tech Stack
+
+**Agentic AI:**  
+`Langchain` `n8n` `Langchain`
+
 
 **Languages:**  
 `Python` `C++` `SQL`
@@ -30,11 +34,10 @@ I enjoy building scalable backend systems, deploying **cloud-native** applicatio
 `AWS (EC2, RDS, ECR)` `Docker` `GitHub Actions (CI/CD)` `Heroku` `MCP servers`
 
 **Databases:**  
-`PostgreSQL` `MySQL`  
+`PostgreSQL` `MySQL`  `MongoDB`
 _Vector DB:_ `Pinecone` `ChromaDB`
 
-**Tools:**  
-`Jupyter Notebook` `Pandas` `NumPy`
+
 
 **Soft Skills:**  
 Communication • Teamwork • Problem-Solving  
