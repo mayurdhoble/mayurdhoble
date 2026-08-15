@@ -54,33 +54,6 @@ _Apr 2025 – Present | Aurangabad_
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔹 Task Manager App with LLM Integration
-- RESTful backend with **FastAPI**, **PostgreSQL**, **Docker**, and **Celery**.  
-- Integrated **Gemini API** for intelligent task prioritization.  
-
-### 🔹 College Event Management API System
-- Full API with **FastAPI**, **JWT Authentication**, **PostgreSQL**, **Docker Compose**.  
-- Automated event registration, feedback, and role-based access.  
-
-### 🔹 Auto Certificate Generation & Email Notification System
-- Built with **Flask** & **Google Forms**.  
-- Automated certificate PDF generation and email delivery via **Gmail SMTP**.  
-
-### 🔹 Full Stack Sentiment Analysis App
-- Real-time analysis from **Twitter data** using **Flask**, **NLTK**, **Scikit-Learn**.  
-- Achieved **89% accuracy**.  
-
-### 🔹 Fruit Classification with Deep CNN
-- **TensorFlow/Keras** multi-class fruit classifier.  
-- Used **dropout** and **batch-normalization** to improve accuracy (76%).  
-
-### 🔹 Social Media Trend Collector & Content Idea Generator
-- Collected trend data using **Apify**.  
-- Generated content ideas via **LangChain + Gemini**, automated posting calendar.  
-
----
 ## 📚 Education
 
 **MCA (Masters In Computer Appication)** 
